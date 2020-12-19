@@ -1,6 +1,4 @@
-<h2>Digital Inovation One</h2>
-
-<p>Projeto criado como pratica de integração entre frontend e back end no bootcamp da everis.</p>
+<h2>Gerenciador de Salas de Reunião</h2>
 
 <h3>Tecnologias Utilizadas</h3>
 
